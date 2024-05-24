@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  base: '/ListTask/', // Asegúrate de que esta ruta es correcta
+  base: "https://juantito77.github.io/ListTask", // Asegúrate de que esta ruta es correcta
 });
